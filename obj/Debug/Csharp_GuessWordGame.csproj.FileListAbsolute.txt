@@ -1,0 +1,10 @@
+C:\VisualStudioProjects\Csharp_GuessWordGame\bin\Debug\Csharp_GuessWordGame.exe.config
+C:\VisualStudioProjects\Csharp_GuessWordGame\bin\Debug\Csharp_GuessWordGame.exe
+C:\VisualStudioProjects\Csharp_GuessWordGame\bin\Debug\Csharp_GuessWordGame.pdb
+C:\VisualStudioProjects\Csharp_GuessWordGame\obj\Debug\Csharp_GuessWordGame.csproj.AssemblyReference.cache
+C:\VisualStudioProjects\Csharp_GuessWordGame\obj\Debug\Csharp_GuessWordGame.Form1.resources
+C:\VisualStudioProjects\Csharp_GuessWordGame\obj\Debug\Csharp_GuessWordGame.Properties.Resources.resources
+C:\VisualStudioProjects\Csharp_GuessWordGame\obj\Debug\Csharp_GuessWordGame.csproj.GenerateResource.cache
+C:\VisualStudioProjects\Csharp_GuessWordGame\obj\Debug\Csharp_GuessWordGame.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjects\Csharp_GuessWordGame\obj\Debug\Csharp_GuessWordGame.exe
+C:\VisualStudioProjects\Csharp_GuessWordGame\obj\Debug\Csharp_GuessWordGame.pdb
